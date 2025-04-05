@@ -8,4 +8,4 @@ __Negrito__
 - tópico
 - tópico
 
-[link](www.youtube.com)
+[link](youtube.com)
