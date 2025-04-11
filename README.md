@@ -13,6 +13,6 @@ _ esta em itálico_
 
 
 
- e este gif abaixo \/
+ e este gif abaixo 👇🏼
 
 ![e este gif](https://media1.tenor.com/m/w2Pu6UMOyCkAAAAC/friday-good-morning-friday.gif)
