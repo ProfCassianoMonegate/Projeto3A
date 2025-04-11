@@ -1,14 +1,14 @@
-# Projeto3A
-## read me
+# Este é um exemplo de arquivo README
+## Para este arquivo, usei 5 modificações usando a linguagem Markdown
 
-_itálico_
+_ esta em itálico_
 
-__Negrito__
+**esta em Negrito**
 
-- tópico
-- tópico
+- estes tópicos 
+- 🤯🤯🤯🤯
 
-[Youtube](youtube.com)
+[este link que vai para uma música no Youtube](youtube.com)
 
 
-![gif](https://media1.tenor.com/m/w2Pu6UMOyCkAAAAC/friday-good-morning-friday.gif)
+![e este gif](https://media1.tenor.com/m/w2Pu6UMOyCkAAAAC/friday-good-morning-friday.gif)
