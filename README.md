@@ -9,6 +9,6 @@ _ esta em itálico_
 - 🤯🤯🤯🤯
 
 [este link que vai para uma música no Youtube](youtube.com)
-
+ e este gif abaixo \/
 
 ![e este gif](https://media1.tenor.com/m/w2Pu6UMOyCkAAAAC/friday-good-morning-friday.gif)
