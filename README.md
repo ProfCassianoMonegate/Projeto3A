@@ -1,7 +1,7 @@
 # Este é um exemplo de arquivo README
 ## Para este arquivo, usei 5 modificações usando a linguagem Markdown
 
-_ esta em itálico_
+_esta em itálico_
 
 **esta em Negrito**
 
